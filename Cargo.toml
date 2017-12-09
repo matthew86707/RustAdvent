@@ -1,0 +1,6 @@
+[package]
+name = "RustAdvent"
+version = "0.1.0"
+authors = ["matthew86707 <matt86707@Gmail.com>"]
+
+[dependencies]
